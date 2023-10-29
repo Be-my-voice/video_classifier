@@ -1,2 +1,2 @@
-model_checkpoint_path: "ssl"
-all_model_checkpoint_paths: "ssl"
+model_checkpoint_path: "ucf101"
+all_model_checkpoint_paths: "ucf101"
